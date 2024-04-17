@@ -4,13 +4,8 @@ License: [Purchase your license from here to use this project for commercial use
 
 ![Application Logo](https://storage.googleapis.com/msgsndr/0wtSXexlPhMN1945ooxW/media/65b7c3d24660477daf3d6708.png)
 
-| 🔴 Demo |
-|------------|------|
-| [Demo](https://webprodigies.com/demo) |
+| 🔴 [Demo](https://webprodigies.com/demo) |
 
-
-## SaaS Notion Clone with Realtime cursors, Nextjs 13, Stripe, Drizzle ORM, Tailwind, Supabase, Sockets
-[Saas Notion Clone](https://www.youtube.com/watch?v=A3l6YYkXzzg)
 
 ### Features in this application.
 - 🤯 Multivendor B2B2B Saas
